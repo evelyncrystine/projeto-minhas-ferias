@@ -21,4 +21,10 @@
   width: 50%;
   padding: 15px;
   height: 100%;
+  text-align: center;
+}
+
+.container .section-image .image {
+  width: 100%;
+  height: 100%;
 }
