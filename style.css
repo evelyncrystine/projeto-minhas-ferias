@@ -24,10 +24,13 @@ body {
 }
 
 .container .section-image {
-  width: 50%;
-  padding: 15px;
-  height: 100%;
-  text-align: center;
+  width: 5cm;
+  height: 3cm;
+  background-color: #f6f8fa;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  padding: 10px;
 }
 
 .container .section-image .image {
