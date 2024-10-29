@@ -39,69 +39,33 @@ body {
 }
 
 .cristo-redentor {
-  width: 5cm;
-  height: 3cm;
-  background-color: #f6f8fa;
-  border: 1px solid #e1e4e8;
-  border-radius: 6px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  padding: 10px;
-  font-family: Arial, sans-serif;
+  width: 5cm; /* Largura de 5 cm */
+  height: 3cm; /* Altura de 3 cm */
 }
 
 .nova-york {
   width: 5cm;
   height: 3cm;
-  background-color: #f6f8fa;
-  border: 1px solid #e1e4e8;
-  border-radius: 6px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  padding: 10px;
-  font-family: Arial, sans-serif;
 }
 
 .paris {
   width: 5cm;
   height: 3cm;
-  background-color: #f6f8fa;
-  border: 1px solid #e1e4e8;
-  border-radius: 6px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  padding: 10px;
-  font-family: Arial, sans-serif;
 }
 
 .londres {
   width: 5cm;
   height: 3cm;
-  background-color: #f6f8fa;
-  border: 1px solid #e1e4e8;
-  border-radius: 6px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  padding: 10px;
-  font-family: Arial, sans-serif;
 }
 
 .veneza {
   width: 5cm;
   height: 3cm;
-  background-color: #f6f8fa;
-  border: 1px solid #e1e4e8;
-  border-radius: 6px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  padding: 10px;
-  font-family: Arial, sans-serif;
 }
 
 .torre-de-pisa {
   width: 5cm;
   height: 3cm;
-  background-color: #f6f8fa;
-  border: 1px solid #e1e4e8;
-  border-radius: 6px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  padding: 10px;
-  font-family: Arial, sans-serif;
 }
 
 
