@@ -2,6 +2,7 @@
 
 .titles {
   color:rgb(4, 68, 68);
+  text-align: center;
 }
 
 body {
@@ -25,6 +26,7 @@ body {
   width: 300px;
   height: auto;
   border-radius: 8px;
+  text-align: center;
 }
 
 .titulo {
