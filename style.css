@@ -31,28 +31,33 @@ body {
 }
 
 .nova-york {
-  width: 5cm;
-  height: 3cm;
+  width: 300px;
+  height: auto;
+  border-radius: 8px;
 }
 
 .paris {
-  width: 5cm;
-  height: 3cm;
+  width: 300px;
+  height: auto;
+  margin-top: 8px;
 }
 
 .londres {
-  width: 5cm;
-  height: 3cm;
+  width: 300px;
+  height: auto;
+  margin-top: 8px;
 }
 
 .veneza {
-  width: 5cm;
-  height: 3cm;
+  width: 300px;
+  height: auto;
+  margin-top: 8px;
 }
 
 .torre-de-pisa {
-  width: 5cm;
-  height: 3cm;
+  width: 300px;
+  height: auto;
+  margin-top: 8px;
 }
 
 footer {
